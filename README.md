@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hello , I'm Sam! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img width="1584" height="396" alt="banner (1)" src="https://github.com/user-attachments/assets/a422a1d4-5759-4ea1-82e9-c65629827449" />
+<img width="1584" height="396" alt="Copia de banner" src="https://github.com/user-attachments/assets/c4679635-c2a5-48c1-9c98-cfb9df2ac8d8" />
+
 <h2 align="left">Acerca de mí ✨</h2>
 <!--  -->
 <p align="center">
