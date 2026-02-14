@@ -21,15 +21,11 @@ Creo en el aprendizaje continuo, en la mejora constante y en el poder de los dat
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=html"/></td>
+        <td><img height="20" src="https://skillicons.dev/icons?i= html"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="20" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=githubactions,gitlarun"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -37,7 +33,7 @@ Creo en el aprendizaje continuo, en la mejora constante y en el poder de los dat
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=vscode,jupyter,powerbi"/></td>
+        <td><img height="20" src="https://skillicons.dev/icons?i=vscode,jupyter,power"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
