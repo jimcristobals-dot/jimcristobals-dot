@@ -57,7 +57,7 @@ Creo en el aprendizaje continuo, en la mejora constante y en el poder de los dat
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,discord,postgres,github,html,ubuntu,mysql,vscode,windows,matlab,powerbi,jupyter,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,git,discord,postgres,github,html,ubuntu,mysql,vscode,windows,matlab=14" />
   </a>
 </p>
 
