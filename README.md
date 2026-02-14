@@ -16,38 +16,6 @@ Creo en el aprendizaje continuo, en la mejora constante y en el poder de los dat
   - 🐼🐍 Fun fact:  I speak fluent Python and Pandas aren’t just cute
   - 🚀 I’m currently open for an Intern or a new job opportunity, Check out my resume!
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=python"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=html"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=vscode,jupyter,powerbi"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=excel,Apis,matlab,Rstudio"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
-</table>
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
