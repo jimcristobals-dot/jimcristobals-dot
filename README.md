@@ -33,11 +33,11 @@ Creo en el aprendizaje continuo, en la mejora constante y en el poder de los dat
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=vscode,Jupyter,PowerBi"/></td>
+        <td><img height="20" src="https://skillicons.dev/icons?i=vscode,jupyternotebook,powerbi"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=excel,apis,matlab,rstudio"/></td>
+        <td><img height="20" src="https://skillicons.dev/icons?i=excel,Apis,matlab,Rstudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
