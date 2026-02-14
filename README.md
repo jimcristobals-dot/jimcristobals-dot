@@ -33,7 +33,7 @@ Creo en el aprendizaje continuo, en la mejora constante y en el poder de los dat
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="20" src="https://skillicons.dev/icons?i=vscode,jupyter,powerbi"alt="VSCode, Jupyter, Power BI"/></td>
+        <td><img height="20" src="https://skillicons.dev/icons?i=vscode,Jupyter,PowerBi"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
